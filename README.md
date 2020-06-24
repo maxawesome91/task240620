@@ -36,3 +36,5 @@
 
 **8. English**
 `I had a practice at my University for 3 years. I like to watch sport events in English language, I'm doing it since 2011.`
+
+link https://maxawesome91.github.io/task240620/cv
